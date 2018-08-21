@@ -1,0 +1,24 @@
+{
+    "name": "berighton/browser",
+    "description": "Full CasperJS component with an added PhantomJS binary for Linux x64",
+    "version": "1.1.4",
+    "keywords": [
+        "phantomjs",
+        "casperjs",
+        "slimerjs",
+        "test",
+        "testing",
+        "scraping"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Brighton"
+        }
+    ],
+    "bin": [
+        "bin/casperjs",
+        "bin/phantomjs"
+    ]
+}
